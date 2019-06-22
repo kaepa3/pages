@@ -1,0 +1,26 @@
+baseURL = "https://kaepa3.github.io/pages/"
+languageCode = "ja-jp"
+title = "houtou musuko"
+paginate = 6
+theme = "hugo-cards"
+
+[params]
+  builtBy = "kaepa3"
+  defaultImage = "gopher.jpg"
+
+  facebook = ""
+  quora = ""
+  twitter = "https://twitter.com/kaepa3"
+  github = "https://github.com/kaepa3"
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  [params.copyright]
+     name = "kaepa3"
