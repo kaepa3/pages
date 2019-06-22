@@ -3,7 +3,7 @@ languageCode = "ja-jp"
 title = "houtou musuko"
 paginate = 6
 theme = "hugo-cards"
-publishDir = "public"
+publishDir = "docs"
 hasCJKLanguage = true
 
 [params]
