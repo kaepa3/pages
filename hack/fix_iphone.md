@@ -1,3 +1,5 @@
+<link href="https://kaepa3.github.io/pages/page.css" rel="stylesheet" />
+
 # iPhone 修理の話
 正直面倒だった、正規で修理すると１週間は時間を使うようでこれは面倒臭い。
 なので結果横浜の某修理ショップに伺った、ものの３０分で修理は終わった

@@ -1,2 +1,2 @@
 # pages
-https://kaepa3.github.io/pages/{
+https://kaepa3.github.io/pages/
