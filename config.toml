@@ -4,6 +4,7 @@ title = "houtou musuko"
 paginate = 6
 theme = "hugo-cards"
 publishdir = "public"
+hasCJKLanguage = true
 
 [params]
   builtBy = "kaepa3"
