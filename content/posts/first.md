@@ -1,0 +1,42 @@
+---
+title: "First"
+draft: true 
+img: https://lh3.googleusercontent.com/Ov6JUIqPTZmnE_hO6HdZ6Dypf-wwEJZy2030xJSLp5F_SXgY0OKUiggyrS7ctSRS5In_MH-96VmM9W1nyfuPYNdwTv1Jk3ZnIK1nSJN4OPJCJlhkxZOYYcYinFnypEBHMlgXdyZDxG2bxgTLF4QJyLWUV0Ax0qzmp-4fiP4QkzR9zTAhNOsnr3iA7N3zPIXSee-cv1oKbkHuvuPRY6eqJv8h5V8UZF2cYInul5HS4AeRAA7VLopnpju1xHzQ96eYaRIOODERaQkaeU_PPrcMxVUfGIgLtSa1PolS_fGcxUo3Mg57NvB_5jzk5ZF607Kk0rSRj15z8hYaNB1yCgHkDco0Rq4BWexI_3U1WmTAdAwt18rTvXQC3FOwdPWPszBC_-bBCZbeJUaBbqZArujmHyXWKfVdNMTiKFXThsl2R1OxXK48KhJeUdWlOm7DbrjugwFYP8a-6_7MjtGbWMxAxTY7KrhB2ldfTlQNeYYpUNI1Cecobc2--yFJLXI6QHMg-YSsA34gzOn6N9GlQfXhMOAirXx8QPT28Nh3SA3jpcTjyboLbpyCGCtfPOpBprwcBHNvy-NXVh8tjcCWuSulqSHDx7KzQgnCHTMParE0r_4f9eR9yORQKdrpUl6BMEHn_LBgwUGylFa9-BJKfK79OQSZqEFm1h5YezVWOOZSVqqz4-EFd9YpzMXqeXHeR5AQr4b80cXjxJ9ZiqSMsVkRQe0O=d
+date: 2019-06-23T04:00:01+09:00
+---
+
+
+こうやって技術ブログ見たいのを描くんですよ
+でもライフハック見たいのも書くのですよ
+
+# iPhoneの修理について
+本日画面が割れているのをいい加減修理しようと行って来ました。
+３０分ほどで直るようです。そうですあの激安のやつです。
+問題点がいくつかあります。
+
+* パスコードを聞かれる
+* 故障しても保証されない
+* 廉価パーツの使用から性能低下は免れない
+
+
+## パスコードを聞かれる
+驚いた、そんなんセキュリテイからできるわけないじゃんアホけ？
+と思っていたんだけど、勢いで教えてしまった。
+結果自宅に帰って全部変更する羽目になった。
+そう、激安の修理やさんはセキュリティ意識が薄い人間が行くところなのです。
+
+## 故障しても保証されない
+作業中に症状が悪化しても、元からなのかどうかの保証は難しいです。
+そもそも契約書的なのにサインしているかと思います。
+いくら楯突こうにも紙にサインした異常覆すのは難しいのではないかと思っています。
+この辺、どうなるんだろ？誰か教えてと思ったけどどっちでも良い。
+すでに別次元で結論を出しているのである。
+
+## 廉価パーツの使用
+低価格化の上では当たり前です。
+けど、高価格のiPhoneをつかってるのになにそれ？って話ですよ。
+変更してわかったのは応答はそうでもないけど色味が完全に違う。
+
+## 結論
+本当に緊急でない限り、劇安ショップは使用しないことである。
+
