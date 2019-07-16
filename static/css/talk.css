@@ -1,36 +1,34 @@
-.talk__inner{
-   display: inline-block;
-  position: relative; 
+.talk__inner {
+  display: inline-block;
+  position: relative;
   margin: 0 0 0 50px;
   padding: 10px;
   max-width: 250px;
   border-radius: 12px;
   background: #edf1ee;
+  color: #444444;
 }
 
 .talk__inner:after {
-  content: "";
+  content: '';
   display: inline-block;
   position: absolute;
-  top: 3px; 
+  top: 3px;
   left: -19px;
   border: 8px solid transparent;
   border-right: 18px solid #edf1ee;
   -webkit-transform: rotate(35deg);
   transform: rotate(35deg);
 }
-.
 .talk__inner p {
   margin: 0;
-  padding: 0;
-}
 .talk .faceicon {
   float: left;
   margin-right: -50px;
   width: 40px;
 }
 
-.faceicon img{
+.faceicon img {
   width: 100%;
   height: auto;
   border-radius: 50%;
@@ -40,7 +38,7 @@
   margin: 10px 0;
   overflow: hidden;
 }
-.talk .faceicon img{
+.talk .faceicon img {
   width: 100%;
   height: auto;
   border-radius: 50%;
